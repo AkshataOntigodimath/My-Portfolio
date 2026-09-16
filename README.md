@@ -1,43 +1,39 @@
-💻 My Portfolio
+✨ Akshata's Portfolio
 
-<p align="center">
-  <b>Personal Portfolio Website</b><br>
-  Showcasing my projects, skills, internships, and hands-on technical experience.
-</p>---
+«🚀 Building. Learning. Exploring.»
 
-👩‍💻 About
-
-This portfolio represents my learning journey and practical work across different areas of technology.
-
-It showcases not only what I have learned, but also what I build, the technologies I use, and how I approach technical problems.
-
-🛠️ Tech Stack
-
-🌐 Web: HTML • CSS • JavaScript
-
-🤖 AI/ML: Python • Machine Learning • Scikit-learn
-
-🔌 IoT: ESP32 • Arduino • Sensors • Embedded Systems
-
-🗄️ Database: MySQL • PHP
-
-🚀 Featured Areas
-
-- 💻 Web Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 🔌 IoT & Embedded Systems
-- ⚙️ Practical Project Development
+Welcome to my personal portfolio repository!
+This website is a collection of my projects, technical skills, internships, and hands-on learning journey.
 
 ---
 
-🌐 Live Portfolio
+👩‍💻 What You'll Find
 
-<p align="center">🔗 "✨ Visit My Portfolio ✨" (https://akshataontigodimath.github.io/My-Portfolio/)
+💻 Web Development
+🤖 AI & Machine Learning
+🔌 IoT & Embedded Systems
+🧠 Technical Exploration
+📂 Projects & Internships
 
-</p>---
+---
 
-🤝 Connect With Me
+⚙️ Technologies I Work With
 
-🐙 GitHub: "AkshataOntigodimath" (https://github.com/AkshataOntigodimath)
+"HTML" "CSS" "JavaScript" "Python" "React" "Node.js" "PHP" "MySQL" "ESP32" "Arduino" "Git" "GitHub"
 
-💼 LinkedIn: "Akshata Ontigodimath" (https://www.linkedin.com/in/akshata-ontigodimath-468511424)
+---
+
+🌐 Explore My Portfolio
+
+🚀 "Visit My Portfolio →" (https://akshataontigodimath.github.io/My-Portfolio/)
+
+---
+
+🔗 Let's Connect
+
+🐙 "GitHub" (https://github.com/AkshataOntigodimath)
+💼 "LinkedIn" (https://www.linkedin.com/in/akshata-ontigodimath-468511424)
+
+---
+
+⭐ Thanks for visiting my portfolio!
