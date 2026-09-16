@@ -1,14 +1,26 @@
-# My Portfolio
+💻 My Portfolio
 
-A personal portfolio website that showcases my journey, projects, internships, technical skills, and hands-on work across different areas of technology.
+A personal portfolio website showcasing my projects, technical skills, internships, and practical experience across Web Development, AI/ML, IoT, and Embedded Systems.
 
-The portfolio is designed to show not just **what I know**, but also **what I build and how I approach technical problems**.
+The portfolio highlights not only what I have learned, but also what I build and how I approach technical problems.
 
-### Tech Stack
-HTML • CSS • JavaScript
+🛠️ Tech Stack
 
-### Areas of Work
-Web Development • AI/ML • IoT • Embedded Systems
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
 
-### Connect
-[GitHub](https://github.com/AkshataOntigodimath) • [LinkedIn](https://www.linkedin.com/in/akshata-ontigodimath-468511424)
+🚀 Areas
+
+- 💻 Web Development
+- 🤖 AI/ML
+- 🔌 IoT
+- ⚙️ Embedded Systems
+
+🌐 Live Portfolio
+
+🔗 "View My Portfolio" (https://akshataontigodimath.github.io/My-Portfolio/)
+
+🤝 Connect With Me
+
+🐙 "GitHub" (https://github.com/AkshataOntigodimath) • 💼 "LinkedIn" (https://www.linkedin.com/in/akshata-ontigodimath-468511424)
